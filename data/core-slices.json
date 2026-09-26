@@ -7,6 +7,10 @@
       "coreBox": "BX-09",
       "depth": "128.4-128.8m",
       "owner": "陆川",
+      "custodian": "陆川",
+      "retentionUntil": "2026-10-20",
+      "reviewStatus": "无复检",
+      "loans": [],
       "status": "制片中",
       "delivery": "未交付",
       "slices": [
@@ -30,5 +34,6 @@
         }
       ]
     }
-  ]
+  ],
+  "archive": []
 }
