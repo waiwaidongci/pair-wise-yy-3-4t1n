@@ -7,8 +7,31 @@
       "coreBox": "BX-09",
       "depth": "128.4-128.8m",
       "owner": "陆川",
+      "custodian": "赵岩",
+      "retentionUntil": "2026-10-20",
       "status": "制片中",
       "delivery": "未交付",
+      "loan": null,
+      "rechecks": [
+        {
+          "id": "RC-1",
+          "by": "东岭矿业质检所",
+          "note": "铜品位复测",
+          "status": "进行中",
+          "startedAt": "2026-09-20T09:00:00.000Z",
+          "endedAt": null
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-06-12T10:00:00.000Z",
+          "text": "建档入库，保存截止 2026-10-20"
+        },
+        {
+          "at": "2026-09-20T09:00:00.000Z",
+          "text": "东岭矿业质检所 发起复检：铜品位复测"
+        }
+      ],
       "slices": [
         {
           "id": "SL-001-A",
@@ -30,5 +53,6 @@
         }
       ]
     }
-  ]
+  ],
+  "destroyed": []
 }
